@@ -15,7 +15,7 @@ Various places. Some collections from the [win_icons](https://twitter.com/win_ic
 * `other-win` is literally "other Windows icons".
 * `progman` is much like `moricons`, named the same way
 * `sierra` is a collection of icon files that came with various Sierra On-Line adventure games.
-* `tabworks` is some dumb utility that Foone came across, I forget. It might be in the bot's corpus.
+* `tabworks` is some dumb utility that Foone came across that's also in the bot's corpus.
 * The *other* icons are...
   * A dumb idea I had when I spotted Program Manager on the bot and had Avengers on the brain.
   * A better take on Grover from Sesame Street because the one in `iconlib` pissed me off.
