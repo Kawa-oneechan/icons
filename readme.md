@@ -16,6 +16,7 @@ Various places. Some collections from the [win_icons](https://twitter.com/win_ic
 * `progman` is much like `moricons`, named the same way
 * `sierra` is a collection of icon files that came with various Sierra On-Line adventure games.
 * `tabworks` is some dumb utility that Foone came across that's also in the bot's corpus.
+* `vb` is the collection of sample icons from Visual Basic 3.
 * The *other* icons are...
   * A dumb idea I had when I spotted Program Manager on the bot and had Avengers on the brain.
   * A better take on Grover from Sesame Street because the one in `iconlib` pissed me off.
@@ -26,4 +27,3 @@ Various places. Some collections from the [win_icons](https://twitter.com/win_ic
   * Kirby, from a Game Boy game and then hand-upscaled and colored.
   * A simple Pac-Man that I drew to get back into the swing of things when I restored my favorite icon editor.
   * A rather beautiful Sierra logo.
-  
