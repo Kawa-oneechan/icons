@@ -9,6 +9,7 @@ Various places. Some collections from the [win_icons](https://twitter.com/win_ic
 ### What are they exactly?
 
 * `3000`, `fantazia`, `iconart`, and `iconlib` are collections from the bot.
+  * `fantazia/improved` is me going through the `fantazia` set and adding transparancy, because it appears their icon tool didn't support those.
 * I forget where `iconpak` comes from, but you'll notice they're much larger than the usual 32×32.
 * `mac` is hand-converted icons from MacOS 7.5 and the Appearance extension that makes it look more like 8, plus Word. All but Word's are named according to their resource number.
 * `moricons` is mostly the actual contents of the classic `moricons.dll` with the original names from a Windows source leak, plus a few unnamed icons from a later version.
