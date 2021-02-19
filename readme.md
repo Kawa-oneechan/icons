@@ -13,6 +13,7 @@ Various places. Some collections from the [win_icons](https://twitter.com/win_ic
 * I forget where `iconpak` comes from, but you'll notice they're much larger than the usual 32×32.
 * `mac` is hand-converted icons from MacOS 7.5 and the Appearance extension that makes it look more like 8, plus Word. All but Word's are named according to their resource number.
 * `moricons` is mostly the actual contents of the classic `moricons.dll` with the original names from a Windows source leak, plus a few unnamed icons from a later version.
+* `pifmgr` is like `moricons` in every way, except there are no extras.
 * `other-win` is literally "other Windows icons".
 * `progman` is much like `moricons`, named the same way
 * `sierra` is a collection of icon files that came with various Sierra On-Line adventure games.
