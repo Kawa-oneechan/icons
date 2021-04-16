@@ -25,6 +25,7 @@ Various places. Some collections from the [win_icons](https://twitter.com/win_ic
   * A better take on *Cosmo's Cosmic Adventure* because the one in `3000` freaked out Foone.
   * A better take on *Leisure Suit Larry* because the one in `iconlib` pissed me off.
   * A better take on *Police Quest 2* because the one in `3000` pissed me off.
+  * A better take on the Paintbrush color eraser because the one in `fantazia` pissed me off.
   * Kamen Rider #1, from a Game Boy game.
   * Kirby, from a Game Boy game and then hand-upscaled and colored.
   * A simple Pac-Man that I drew to get back into the swing of things when I restored my favorite icon editor.
