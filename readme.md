@@ -29,7 +29,7 @@ Various places. Some collections from the [win_icons](https://twitter.com/win_ic
   * Kamen Rider #1, from a Game Boy game.
   * Kirby, from a Game Boy game and then hand-upscaled and colored.
   * A simple Pac-Man that I drew to get back into the swing of things when I restored my favorite icon editor.
-  * A rather beautiful Sierra logo, one of the few if only full-size full-size icons in the set.
+  * A rather beautiful Sierra logo, one of the few if only full-color full-size icons in the set.
   * A Double Trouble portrait, from *She-Ra and the Princesses of Power*, because they are an enby icon and now that's literal.
   * Lenna.
   * A Paintbrush icon that fits the Windows 95 icon design guidelines, from the *Windows 95 User Interface Design Guidelines* book.
