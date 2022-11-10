@@ -19,6 +19,7 @@ Various places. Some collections from the [win_icons](https://twitter.com/win_ic
 * `sierra` is a collection of icon files that came with various Sierra On-Line adventure games.
 * `tabworks` is some dumb utility that Foone came across that's also in the bot's corpus.
 * `vb` is the collection of sample icons from Visual Basic 3.
+* `wincim` is from the CompuService Information Manager, version 1.4.
 * The *other* icons are...
   * A dumb idea I had when I spotted Program Manager on the bot and had *Avengers* on the brain.
   * A better take on Grover from *Sesame Street* because the one in `iconlib` pissed me off.
